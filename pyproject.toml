@@ -2,7 +2,7 @@
 name = "github_payload"
 version = "0.1.0"
 description = "Handle github webhooks payload"
-authors = ["Hazuli Fidastian <hazuli.fidastian@gmail.com>"]
+authors = ["Hazuli Fidastian"]
 
 [tool.poetry.dependencies]
 python = "~=3.7"
